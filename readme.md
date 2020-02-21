@@ -10,7 +10,7 @@ the Shakespeare's tragedy plays are properly stored in the `/user/student/shakes
 folder. The comnmand to run is as follows:
 
 ```shell script
-cd dev
+cd cisc_525
 git clone https://github.com/drkiettran/cisc525_final_exam
 cd cisc525_final_exam
 ./index_maker.py /user/student/shakespeare/tragedy /tmp/tragedy
