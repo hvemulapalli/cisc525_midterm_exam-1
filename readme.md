@@ -1,18 +1,18 @@
-# Final Exam CISC 525 Big Data Architecture - Late Fall 2019
-This is your final exam. The exam is worth 20% of your final grade.
-Please make effort to complete it.
+# A Midterm Exam CISC 525 Big Data Architecture - Spring 2020
+This is your midterm exam. The exam is worth 20% of your final grade.
+Please make effort to complete it as much as you can.
 
 This is a Python project. It contains a single program that makes indexes from text files.
 
 ## Run command
-To run the application, you must make sure that you have Hadoop is running with 
+To run the application, you must make sure that Hadoop is running with 
 the Shakespeare's tragedy plays are properly stored in the `/user/student/shakespeare/tragedy` 
-folder. The comnmand to run is as follows:
+folder (`hint`: use `cisc-525-util`). The comnmand to run is as follows:
 
 ```shell script
 cd cisc_525
-git clone https://github.com/drkiettran/cisc525_final_exam
-cd cisc525_final_exam
+git clone https://github.com/drkiettran/cisc525_midterm_exam
+cd cisc525_midterm_exam
 ./index_maker.py /user/student/shakespeare/tragedy /tmp/tragedy
 ```
 The output are index files that contains one word per line and the line numbers of the original text file that
@@ -28,7 +28,7 @@ This means that I would find two occurrences of the word `accidents` in the play
 The activities for this part are as follows:
 
 1. Review the program closely and make sure you understand the program fully.
-2. Use MS WORD to write a report that explains how the application works. Be sure to include the following
+2. Use `MS WORD` to write a report that explains how the application works. Be sure to include the following
 items
 
     - On each section of the code (functions/methods & significant portion of code inside them), 
@@ -41,7 +41,7 @@ items
     solution. Please `do not just say the code is good and I have no comment`! That will not get you
     a very good grade. Provide me with three (3) possible improvements. 
 
-3. Implement the improvements you provided in section 2 above. Commit and push your repository to
+3. Implement the improvements you provided in section 2 above. Commit and push your `private` repository to
 github. **Make sure to share your repository with me!**
 
 ## Part II (30%)
@@ -83,7 +83,7 @@ print out the lines of the original text that have one of the search words.
 
 ## Submission
 
-- You must make sure your report to include all parts (Part I, Part II, and Part III).
+- You must make sure your report to include all parts (Part I and Part II).
 - You must make sure to provide the **url** of your repository in your report. All work should be in **ONE** repository
 - You must make sure that I **accepted** your github invite!
 
