@@ -80,41 +80,14 @@ print out the lines of the original text that have one of the search words.
 
 3. You must write a report for this section in addition to your work in sections above.
      
-## Part III (extra credit)
 
-1. **Additional plays (10%)**
-
-    I was using this website [http://shakespeare.mit.edu](http://shakespeare.mit.edu) to extract 
-    Shakespeare's Tragedy for this class. When I downloaded a play, I selected the play and then
-    I selected `Entire play` link on the top left of the page and that displayed the entire play on one page.
-    I then copied and pasted on my text file (`.txt`).
-    
-    Your task is to provide the all the plays in **Comedy**, **History** and **Poetry** in addition the plays
-    in the *Tragedy*.
-    This will make the Shakespeare collections complete. Store these new files in a separate folders under
-    the **./shakespeare** folder. 
-
-2. **Exact and near exact found (10%)**
-
-    Update the search.py program to also print the results of a search that satisfy these requirements:
-
-    - Each of the result lines that has **all** the search words (near exact). Order of the occurence of 
-    the words are not important.
-    - Each of the result lines that has the **exact words**. Order of the occurrenct of the words are important.
-   
-    Your output should be accumulative. In other words, you just print additional output to what you have done already 
-    previous sections. This should keep your work a bit simpler that if you were to provide conditional statements
-    on the output.
-
-3. You must write a report for this section in addition to your work in sections above.
-   
 ## Submission
 
 - You must make sure your report to include all parts (Part I, Part II, and Part III).
 - You must make sure to provide the **url** of your repository in your report. All work should be in **ONE** repository
 - You must make sure that I **accepted** your github invite!
 
-- **DUE DATE is MIDNIGHT FRIDAY 6 December 2019**
+- **DUE DATE is MIDNIGHT Sunday 1 March 2020**
 - **NO EXTENSION IS ALLOWED**
 - **Individual work only!**
 
