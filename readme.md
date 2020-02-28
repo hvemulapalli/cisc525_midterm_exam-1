@@ -62,6 +62,13 @@ word was found. Example output is as follows:
 >>> output: othello.txt
  859: Of moving accidents by flood and field
 6399: These bloody accidents must excuse my manners,
+
+>>> output: cleopatra.txt
+6200:     But accidents unpurposed. Draw, and come.
+6789:     Which shackles accidents and bolts up change;
+
+>>> output: hamlet.txt
+...etc
 ```
 
 Note that the word `accident` occurs in more than one plays as shown here:
