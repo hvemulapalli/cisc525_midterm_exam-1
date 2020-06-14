@@ -47,7 +47,7 @@ github. **Make sure to share your repository with me!**
 ## Part II (30%)
 The activities for this part are as follows:
 
-1. **Write a Searcher (15%)** 
+1. **Write a Searcher (15%)**
 
 Write a search program and name it `searcher.py` that runs after the `index_maker.py` program (hint: copy 
 the index_maker.py to searcher.py). This program should take input from the keyboard. I recommend to make it 
@@ -94,7 +94,7 @@ print out the lines of the original text that have one of the search words.
 - You must make sure to provide the **url** of your repository in your report. All work should be in **ONE** repository
 - You must make sure that I **accepted** your github invite!
 
-- **DUE DATE is MIDNIGHT Sunday 1 March 2020**
+- **DUE DATE is MIDNIGHT Sunday 21 June 2020**
 - **NO EXTENSION IS ALLOWED**
 - **Individual work only!**
 
