@@ -1,4 +1,4 @@
-# A Midterm Exam CISC 525 Big Data Architecture - Late Summer 2020
+# A Midterm Exam CISC 525 Big Data Architecture - Fall 2020
 This is your midterm exam. The exam is worth 15% of your final grade.
 Please make effort to complete it as much as you can.
 
@@ -94,7 +94,7 @@ print out the lines of the original text that have one of the search words.
 - You must make sure to provide the **url** of your repository in your report. All work should be in **ONE** repository
 - You must make sure that I **accepted** your github invite!
 
-- **DUE DATE is MIDNIGHT Sunday 30 August 2020**
+- **DUE DATE is MIDNIGHT Sunday 25 October 2020**
 - **NO EXTENSION IS ALLOWED**
 - **Individual work only!**
 
