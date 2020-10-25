@@ -44,6 +44,12 @@ items
 3. Implement the improvements you provided in section 2 above. Commit and push your `private` repository to
 github. **Make sure to share your repository with me!**
 
+To run the updated solution. Run the following command
+```
+./index_maker_upd2.py /user/student/shakespeare/tragedy /tmp/tragedy
+
+```
+
 ## Part II (30%)
 The activities for this part are as follows:
 
@@ -80,13 +86,24 @@ othello.idx:accidents [859, 6399]
 romeo-and-julitet.idx:accidents [5462]
 ```
 
+Run the code via following commands
+```
+./searcher.py hdfs://localhost:9000/user/student/shakespeare/tragedy hdfs://localhost:9000/tmp/soutput1/
+```
+
+
 2. **Search for more than one words (15%)**
 
 Update the searcher.py program in section #1 to take in one or more words. Similar to section #1, 
 print out the lines of the original text that have one of the search words.
 
 3. You must write a report for this section in addition to your work in sections above.
-     
+  
+Run the following commands in order to run the code
+
+    ```
+    ./searcher2.py hdfs://localhost:9000/user/student/shakespeare/tragedy hdfs://localhost:9000/tmp/soutput1/
+    ```
 
 ## Submission
 
